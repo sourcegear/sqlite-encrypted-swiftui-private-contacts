@@ -8,7 +8,8 @@ This native iOS and Mac Catalyst sample stores a private contact directory in an
 - iOS 17 or later, or Mac Catalyst
 - A SQLite.Encrypted activation key for the selected platform
 
-You can request an evaluation key at [sqlite.sourcegear.com/#evaluation](http://sqlite.sourcegear.com/#evaluation).
+Free fully-featured demo keys are available from
+[sqlite.sourcegear.com](https://sqlite.sourcegear.com/#evaluation).
 
 ## Run the app
 
